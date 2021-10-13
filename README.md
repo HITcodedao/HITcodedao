@@ -1,3 +1,3 @@
 input: boiii~~ , girl~~ 
-Print: babae
+Print: babae:
 HELLO WORLD :)
